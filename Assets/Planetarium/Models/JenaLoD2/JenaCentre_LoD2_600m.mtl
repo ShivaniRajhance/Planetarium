@@ -1,0 +1,32 @@
+newmtl roof
+Kd 0.71 0.32 0.23
+Ka 0 0 0
+Ks 0 0 0
+Ns 10
+d 1
+illum 1
+
+newmtl wall
+Kd 0.88 0.85 0.80
+Ka 0 0 0
+Ks 0 0 0
+Ns 10
+d 1
+illum 1
+
+newmtl ground
+Kd 0.56 0.62 0.50
+Ka 0 0 0
+Ks 0 0 0
+Ns 10
+d 1
+illum 1
+
+newmtl base
+Kd 0.16 0.17 0.18
+Ka 0 0 0
+Ks 0 0 0
+Ns 10
+d 1
+illum 1
+
